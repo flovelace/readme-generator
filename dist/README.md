@@ -1,7 +1,7 @@
-## ddddddddd
-  [![License](https://img.shields.io/badge/License-GNU-lightgrey)](https://www.gnu.org/licenses/licenses.en.html)
+## SAMPLE PROJECT
+  [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://opensource.org/licenses/MIT)
   ## Project Description
-  ddddddddddd
+  This is a sample project for our distribution file.
   ## Table of Contents
   - [Description](#description)
   - [Installation Instructions](#installation)
@@ -9,16 +9,16 @@
   - [Contribution Information](#contribution)
   - [Testing Guide](#testing)
   ## Installation Instructions
-  ddddddddd
+  You should install Inquirer and Node on your machine.
   ## Usage
-  dddddddddd
+  Free to use.
   
   ## License
-  [![License](https://img.shields.io/badge/License-GNU-lightgrey)](https://www.gnu.org/licenses/licenses.en.html)
-  The license for this project is: [GNU](https://www.gnu.org/licenses/licenses.en.html). Please consult the link provided for usage, reproduction, and/or distribution of this program.
+  [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://opensource.org/licenses/MIT)
+  The license for this project is: [MIT](https://opensource.org/licenses/MIT). Please consult the link provided for usage, reproduction, and/or distribution of this program.
   ## Contributors
-  ddddddddd
+  N/A
   ## Github
-  ddddddddd
+  Insert you Github link in this space.
   ## Testing Guide
-  ddddddd
+  You should be familiar with the command line to use this application
