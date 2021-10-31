@@ -1,10 +1,9 @@
-// TODO: Include packages needed for this application
+// These are the packages that are required to run the application
 const fs = require('fs'); 
 const inquirer = require('inquirer');
 const generatePage = require('./utils/generateMarkdown.js');
 
-// TODO: Create an array of questions for user input
-//const questions = [];
+// These are the questions that we will ask the user
 const questions = () => {
     return inquirer.prompt([
         {
@@ -76,7 +75,7 @@ const questions = () => {
     
     ])
   };
-
+// After the user goes through the prompts, they will receive an error or confirmation message that the README.md was written
 const writeToFile = data => {
     fs.writeFile('./dist/README.md', data, err => {
                 if (err) {
@@ -87,12 +86,11 @@ const writeToFile = data => {
             })
 };
 
-// initialize app questions
+// This is the function to initialise the application
 questions()
     
     .then(questionData => {
-        // finished portfolio data object is returned as questionData
-        // and sent into the generatePage() function
+
         return generatePage(questionData);
     })
     .then(data => {
