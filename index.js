@@ -70,7 +70,7 @@ const questions = () => {
             type: "checkbox",
             name: "license",
             message: "Please choose the applicable license for your project.",
-            choices: ["GNU", "Mozilla", "Appache", "MIT", "Boost", "The Unlicense", "None"]
+            choices: ["GNU", "Mozilla", "Appache", "MIT", "Boost", "Unlicense", "None"]
         },
     
     ])

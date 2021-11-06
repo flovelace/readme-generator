@@ -1,7 +1,7 @@
-## SAMPLE PROJECT
-  [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://opensource.org/licenses/MIT)
+## Sample project 2
+  [![License](https://img.shields.io/badge/License-Unlicense-lightgrey)](https://unlicense.org/)
   ## Project Description
-  This is a sample project for our distribution file.
+  Sample 2
   ## Table of Contents
   - [Description](#description)
   - [Installation Instructions](#installation)
@@ -9,16 +9,16 @@
   - [Contribution Information](#contribution)
   - [Testing Guide](#testing)
   ## Installation Instructions
-  You should install Inquirer and Node on your machine.
+  Sample 2
   ## Usage
-  Free to use.
+  Sample 2
   
   ## License
-  [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://opensource.org/licenses/MIT)
-  The license for this project is: [MIT](https://opensource.org/licenses/MIT). Please consult the link provided for usage, reproduction, and/or distribution of this program.
+  [![License](https://img.shields.io/badge/License-Unlicense-lightgrey)](https://unlicense.org/)
+  The license for this project is: [Unlicense](https://unlicense.org/). Please consult the link provided for usage, reproduction, and/or distribution of this program.
   ## Contributors
   N/A
   ## Github
-  Insert you Github link in this space.
+  github
   ## Testing Guide
-  You should be familiar with the command line to use this application
+  none
